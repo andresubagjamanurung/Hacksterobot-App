@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hacksterobot</string>
+    <string name="add_robot">Settings</string>
+    <string name="no_robot_caution">No robot controller has been added yet. \nAdd new controller by clicking </string>
+    <string name="no_id_robot">idRobot</string>
+    <string name="no_location_robot">N/A</string>
+    <string name="notify_robot">Notify!</string>
+    <string name="offline_robot">Offline</string>
+    <string name="info_change_wifi_robot">User can change WIFI connection of the robot by sending new SSID and Password by Bluetooth connection</string>
+    <string name="info_if_no_paired_ble">* If bluetooth device is not listed, please pair the device first</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

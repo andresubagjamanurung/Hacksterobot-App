@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="manurung.andres.hacksterobot.MainActivity">
+    <item
+        android:id="@+id/bluetooth_password"
+        android:title="bluetooth_password"
+        android:orderInCategory="100"
+        android:icon="@drawable/bluetooth_password"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/add_robot"
+        android:title="add robot"
+        android:orderInCategory="100"
+        android:icon="@drawable/add_robot"
+        app:showAsAction="always" />
+</menu>

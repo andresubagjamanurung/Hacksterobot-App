@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "607530655815",
+    "firebase_url": "https://hackster-2b8b9.firebaseio.com",
+    "project_id": "hackster-2b8b9",
+    "storage_bucket": "hackster-2b8b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607530655815:android:da4bcffb6b33bbb83b1162",
+        "android_client_info": {
+          "package_name": "manurung.andres.hacksterobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607530655815-1j418ie5knv24muqlsb2493164odu5ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manurung.andres.hacksterobot",
+            "certificate_hash": "6f67122fc438948627dc490aca2e3fa3b459d1a1"
+          }
+        },
+        {
+          "client_id": "607530655815-ds6lr2d1tqicqdu63l2sedaj9ldo9gdo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manurung.andres.hacksterobot",
+            "certificate_hash": "145fe060da833ff030d9ac6d939947705073cd00"
+          }
+        },
+        {
+          "client_id": "607530655815-h5rbavl17esn581hekpe1anfcah00vg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wJyANPQ4qzg_0v8UF4uQaghZq3JtaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607530655815-h5rbavl17esn581hekpe1anfcah00vg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607530655815:android:d258c8ef2719f7573b1162",
+        "android_client_info": {
+          "package_name": "manurung.andres.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607530655815-hsgclcc1ihps5v3l79bha4u1fqpg5der.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "manurung.andres.myapplication2",
+            "certificate_hash": "145fe060da833ff030d9ac6d939947705073cd00"
+          }
+        },
+        {
+          "client_id": "607530655815-h5rbavl17esn581hekpe1anfcah00vg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wJyANPQ4qzg_0v8UF4uQaghZq3JtaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607530655815-h5rbavl17esn581hekpe1anfcah00vg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
